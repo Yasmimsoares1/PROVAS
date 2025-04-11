@@ -70,7 +70,7 @@ console.log('ano' +2024)
 console.log('2' + '4')
 
 //conversão explicita
-console.log(parseInt('2') + parseInt('2'))//para somar ou subtrair
+console.log(parseInt('2') + parseInt('2'))
 console.log(parseInt('2') - parseInt('2'))
 
 //conversão implicita
